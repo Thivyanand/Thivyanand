@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-- 🎮 **Coding enthusiast** who loves building things and breaking them (as a game tester too 👀)
+- 🎮 **Coding enthusiast** who loves building things and breaking them (as a game tester too )
 - 🌐 Web Developer building sites & apps
 - 📱 Android Studio Developer
 - ⛏️ Minecraft Server-Side Developer & Custom Plugin Maker
